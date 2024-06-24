@@ -28,4 +28,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Notes
 
-Please note that notebooks do not contain any citation information. You will find citation for datasets and other academics works at the end of "botan_f_bulut_modern_determinants_of_economic_growth_descriptive_and_crosssectional_analysis.pdf" file.
+Please note that notebooks do not contain any citation information. You will find citation for datasets and other academics' works at the end of "botan_f_bulut_modern_determinants_of_economic_growth_descriptive_and_crosssectional_analysis.pdf" file.
